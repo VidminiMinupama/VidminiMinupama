@@ -37,3 +37,14 @@
  ![Vidmini's github stats](https://github-readme-stats.vercel.app/api?username=VidminiMinupama&show_icons=true&theme=tokyonight) 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidminiMinupama&theme=tokyonight) 
 
+-----
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/vidmini-batuwanthudawa"><img src="https://img.shields.io/badge/-Vidmini%20Batuwanthudawa-0077B5?style=flat&logo=Linkedin&logoColor=white" width="150" height="50"/></a>
+<a href="https://x.com/VidminiB"><img src="https://img.shields.io/badge/-VidminiB-1DA1F2?style=flat&logo=X&logoColor=white" width="150" height="50"/></a>
+<a href="mailto:vidminibatuwanthudawa@gmail.com?subject=Hi%20Vidmini,%20nice%20to%20meet%20you!" target="_blank">
+  <img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label="width="150" height="50" />
+</a>
+</p>
