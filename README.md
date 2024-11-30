@@ -14,11 +14,7 @@
 - 🔭 I’m currently Learning **UI/UX design**
 
 - 💬 Ask me about **Figma**
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/vidmini-batuwanthudawa](https://www.linkedin.com/in/vidmini-batuwanthudawa)
-
-- 📝 I regularly write articles on [https://x.com/VidminiB](https://x.com/VidminiB)
-
+  
 - 📝 I regularly write articles on [https://dev.to/vidminiminupama](https://dev.to/vidminiminupama)
 
 - 📝 I regularly write articles on [https://medium.com/@vidminibatuwanthudawa](https://medium.com/@vidminibatuwanthudawa)
