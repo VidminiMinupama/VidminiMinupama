@@ -21,6 +21,8 @@
 
 - 📝 I regularly write articles on [https://dev.to/vidminiminupama](https://dev.to/vidminiminupama)
 
+- 📝 I regularly write articles on [https://medium.com/@vidminibatuwanthudawa](https://medium.com/@vidminibatuwanthudawa)
+
 - 📫 How to reach me **vidminibatuwanthudawa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
